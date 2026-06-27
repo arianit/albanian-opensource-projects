@@ -59,6 +59,20 @@ A crowdsourced collection of open source projects related to Kosovo, Albania, Al
 **Status:** Maintained
 **Maintainer:** Open Data Kosovo
 
+#### Uniparser-Grammar-Albanian
+**Description:** Rule-based morphological analyzer for literary Albanian (with Gheg dialect support) providing full lemmatization, POS tagging, and grammatical tagging via a Python package, built on a 31-million-word corpus.
+**Repository:** [github.com/timarkh/uniparser-grammar-albanian](https://github.com/timarkh/uniparser-grammar-albanian)
+**Technology:** Python, Morphological Analysis
+**Status:** Active
+**Maintainer:** Timofey Arkhangelskiy
+
+#### Albanian-POS Treebank
+**Description:** Manually annotated treebank for Standard Albanian (~118K tokens) with neural morphological tagging and lemmatization models based on the Universal Dependencies schema.
+**Repository:** [github.com/NeldaKote/Albanian-POS](https://github.com/NeldaKote/Albanian-POS)
+**Technology:** NLP, Treebank, Neural Models
+**Status:** Research / In Progress
+**Maintainer:** Nelda Kote
+
 ---
 
 ## Web & Mobile Applications
@@ -90,6 +104,13 @@ A crowdsourced collection of open source projects related to Kosovo, Albania, Al
 **Technology:** Python, Data Analysis, Visualization
 **Status:** Active
 **Maintainer:** Ndriqim Lahu
+
+#### 24 Hours of Traffic — Prishtina
+**Description:** Python scripts that generate animated 24-hour traffic visualizations for Prishtina using custom Google Maps styling, providing data-driven insight into urban traffic patterns.
+**Repository:** [github.com/ArditXhaferi/24-hours-of-traffic-prishtina](https://github.com/ArditXhaferi/24-hours-of-traffic-prishtina)
+**Technology:** Python, Data Visualization, Google Maps
+**Status:** Active
+**Maintainer:** Ardit Xhaferi
 
 ---
 
@@ -123,6 +144,20 @@ A crowdsourced collection of open source projects related to Kosovo, Albania, Al
 **Status:** Maintained
 **Maintainer:** Redjan Ymeraj
 
+#### 5HQ1P — Albanian Programming Language
+**Description:** World's first Albanian-keyword programming language with a Python-based interpreter, allowing developers to write code using Albanian words (e.g. `nese` for `if`), aimed at making programming accessible to Albanian-speaking beginners.
+**Repository:** [github.com/ArditXhaferi/5HQ1P](https://github.com/ArditXhaferi/5HQ1P)
+**Technology:** Python, Programming Language, Interpreter
+**Status:** Active
+**Maintainer:** Ardit Xhaferi
+
+#### Albanian Early Bound
+**Description:** XrmToolBox plugin for generating strongly-typed early-bound Dynamics 365/CRM entity classes via a GUI, with granular attribute and relationship filtering to minimize assembly size. Also supports CLI usage after initial model generation.
+**Repository:** [github.com/albanian-xrm/Early-Bound](https://github.com/albanian-xrm/Early-Bound)
+**Technology:** C#, Dynamics 365, Power Platform
+**Status:** Active
+**Maintainer:** Betim Beja (AlbanianXrm)
+
 ---
 
 ## Documentation & Educational
@@ -133,6 +168,13 @@ A crowdsourced collection of open source projects related to Kosovo, Albania, Al
 **Technology:** Markdown, Curation
 **Status:** Active - Seeking Contributors
 **Maintainer:** Redjan Ymeraj
+
+#### Made in Albania
+**Description:** Companion curated list of open source projects made by developers in Albania, part of a broader series cataloguing country-specific open source contributions.
+**Repository:** [github.com/IonicaBizau/made-in-albania](https://github.com/IonicaBizau/made-in-albania)
+**Technology:** Markdown, Curation
+**Status:** Active
+**Maintainer:** Ionică Bizău
 
 #### FLOSSK Resources
 **Description:** Free Libre Open Source Software Kosova organization providing educational resources, documentation, and community support for FLOSS adoption in Kosovo.
@@ -156,6 +198,20 @@ A crowdsourced collection of open source projects related to Kosovo, Albania, Al
 **Description:** Infrastructure project for building trust and transparency through open data and technology solutions in Kosovo's public sector.
 **Repository:** [github.com/opendatakosovo/kosovo-trust-building](https://github.com/opendatakosovo/kosovo-trust-building)
 **Technology:** Web Infrastructure, Data Platform
+**Status:** Maintained
+**Maintainer:** Open Data Kosovo
+
+#### e-Prokurimi
+**Description:** Open procurement transparency platform for Kosovo municipalities that visualizes procurement data and automatically detects irregularities through a contextual red-flagging algorithm. Includes a companion REST API (`e-prokurimi-api`).
+**Repository:** [github.com/opendatakosovo/e-prokurimi](https://github.com/opendatakosovo/e-prokurimi)
+**Technology:** Python, Flask, Data Visualization
+**Status:** Maintained
+**Maintainer:** Open Data Kosovo
+
+#### Prishtina Contracts Importer
+**Description:** Application that processes and normalizes raw Prishtina Open Contracts data into structured JSON format for transparency reporting and analysis.
+**Repository:** [github.com/opendatakosovo/prishtina-contracts-importer](https://github.com/opendatakosovo/prishtina-contracts-importer)
+**Technology:** Python, Open Contracts, Data Processing
 **Status:** Maintained
 **Maintainer:** Open Data Kosovo
 
@@ -197,6 +253,20 @@ A crowdsourced collection of open source projects related to Kosovo, Albania, Al
 **Technology:** Linguistic Resources, XML
 **Status:** Maintained
 **Maintainer:** MULTEXT-East Consortium
+
+#### Albanian News Articles Dataset
+**Description:** First publicly available Albanian-language news corpus — over 3 million articles from Kosovo news sources (2007–2020) with metadata, designed for topic modeling, category prediction, and NLP research.
+**Repository:** [kaggle.com/datasets/gentrexha/kosovo-news-articles-dataset](https://www.kaggle.com/datasets/gentrexha/kosovo-news-articles-dataset)
+**Technology:** NLP Dataset, Text Corpus
+**Status:** Published Dataset
+**Maintainer:** Gent Rexha, Majlinda Llugiqi
+
+#### Albanian Fake News Corpus
+**Description:** First fake news detection corpus for Albanian — ~4,000 balanced fake and true news articles compiled with a hybrid algorithmic approach, supporting misinformation research in low-resource languages.
+**Repository:** [kaggle.com/datasets/gentrexha/albanian-fake-news-corpus](https://www.kaggle.com/datasets/gentrexha/albanian-fake-news-corpus)
+**Technology:** NLP Dataset, Classification
+**Status:** Published Dataset
+**Maintainer:** Gent Rexha
 
 ---
 
@@ -271,7 +341,7 @@ A crowdsourced collection of open source projects related to Kosovo, Albania, Al
 
 ## Maintenance
 
-**Last Updated:** January 2025
+**Last Updated:** June 2026
 **Contribution Guidelines:** See [CONTRIBUTING.md](CONTRIBUTING.md)
 **License:** [CC BY-SA 4.0](LICENSE.md)
 
