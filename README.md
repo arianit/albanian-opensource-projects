@@ -282,7 +282,7 @@ Human-annotated dataset of 10,132 social media comments in Albanian for sentimen
 
 Large-scale Albanian language corpus extracted from Common Crawl for language modeling and NLP research.
 
-- **Repository:** https://huggingface.co/datasets/cc100
+- **Repository:** https://huggingface.co/datasets/statmt/cc100
 - **Technology:** Text Corpus, NLP
 - **Status:** Active
 - **Maintainer:** Facebook Research / Hugging Face
