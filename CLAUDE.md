@@ -20,14 +20,16 @@ Each entry in `README.md` uses this exact structure (match the existing pattern 
 
 ```
 #### Project Title
-**Description:** 1–2 sentence description.
-**Repository:** https://full-url-here
-**Technology:** Language, Platform, Framework
-**Status:** Active | Maintained | Published Dataset | etc.
-**Maintainer:** Person or organization name
+
+1–2 sentence description.
+
+- **Repository:** https://full-url-here
+- **Technology:** Language, Platform, Framework
+- **Status:** Active | Maintained | Published Dataset | etc.
+- **Maintainer:** Person or organization name
 ```
 
-Fields are required. Use `####` (h4) for the project title. Place the entry under the most appropriate existing section rather than creating a new one.
+Fields are required. Use `####` (h4) for the project title, followed by a blank line, then the description as plain text, then the 4-item bullet list. Place the entry under the most appropriate existing section rather than creating a new one.
 
 ## Branch and commit conventions
 
